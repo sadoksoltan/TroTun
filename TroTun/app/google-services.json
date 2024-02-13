@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "734804202082",
+    "project_id": "trotun-d69d4",
+    "storage_bucket": "trotun-d69d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734804202082:android:3a04bf5ee6227b4d2bf73b",
+        "android_client_info": {
+          "package_name": "com.example.trotun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734804202082-j8qiifhb4a3q936srqf6ldkc4m5pt7fr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCld9rWsLaUeXIkNjd3i8gflWBEEqEFDCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734804202082-j8qiifhb4a3q936srqf6ldkc4m5pt7fr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

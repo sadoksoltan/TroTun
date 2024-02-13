@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TroTun</string>
+    <string name="login">Login</string>
+    <string name="password" />
+    <string name="Login" />
+    <string name="Password">Password</string>
+    <string name="Register">Register</string>
+    <string name="Connexion">Connexion</string>
+    <string name="s_inscrire">S\'inscrire</string>
+    <string name="cliquez_pour_vous_connecter">Cliquez pour vous connecter</string>
+    <string name="cliquez_pour_vous_inscrire">Cliquez pour vous inscrire</string>
+</resources>
